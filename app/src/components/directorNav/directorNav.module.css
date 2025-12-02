@@ -1,0 +1,14 @@
+.active{
+    border-bottom: solid 4px;
+    border-color: #2062AF;
+    margin-bottom: -3px;
+    font-size: 2vw;
+    color: #2E2D26;
+    transition: ease-in-out;
+    transition-duration:150ms;
+}
+
+.inactive {
+    font-size: 2vw;
+    color: rgb(46, 45, 38, 0.5);
+}
