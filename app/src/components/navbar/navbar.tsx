@@ -23,7 +23,7 @@ export default function Navbar() {
                             </li>
                             <li className="hover:text-gray-300 cursor-pointer"><Link href="/soporte">Soporte</Link></li>
                             <li className="hover:text-gray-300 cursor-pointer">
-                                <a href="http://localhost:5173/login">
+                                <a href="https://kare-front.onrender.com/login">
                                     <Image src="/profile.svg" alt="perfil" width={20} height={20} />
                                 </a>
                             </li>
